@@ -1,0 +1,32 @@
+// height: 800,
+              // width: double.infinity,
+              // color: Colors.white,
+              // margin: EdgeInsets.all(10),
+              // child: Column(
+              //   children: [
+              //     Container(
+              //       height: 50,
+              //       width: double.infinity,
+              //       color: Colors.black,
+              //       child: Text(
+              //         title,
+              //         style: TextStyle(color: Colors.white),
+              //       ),
+              //     ),
+              //     Container(
+              //       height: 400,
+              //       width: 500,
+              //       margin: EdgeInsets.all(20),
+              //       decoration: BoxDecoration(
+              //           image: DecorationImage(
+              //               fit: BoxFit.cover,
+              //               image: NetworkImage(
+              //                   "https://i.pinimg.com/564x/c9/6e/e7/c96ee7e2fdf27ded994c5abf66715338.jpg"))),
+              //     ),
+              //     Container(
+              //       width: 500,
+              //       padding: EdgeInsets.all(10),
+              //       child: Text(body),
+              //     ),
+              //   ],
+              // ),
